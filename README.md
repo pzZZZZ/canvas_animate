@@ -1,1 +1,1 @@
-# canvas_animate
+<a href="http://www.behappyli.cn/dist/canvas/animate/">动画示例</a>
